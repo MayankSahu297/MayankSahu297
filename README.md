@@ -72,12 +72,7 @@
 
 
 
-## 📈 Activity Graph (WORKING)
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MayankSahu297&bg_color=0D1117&color=00BFFF&line=00BFFF&point=FFFFFF" width="90%" />
-</p>
 
----
 
 ## 🏗️ Featured Projects
 ### 🔹 Automated Resume Grader (AI + NLP)
@@ -107,6 +102,12 @@ Sensors + ML model for predicting parking availability.
 
 ## 🧠 Quote of the Day
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+## 📈 Activity Graph (WORKING)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MayankSahu297&bg_color=0D1117&color=00BFFF&line=00BFFF&point=FFFFFF" width="90%" />
+</p>
 
 ---
 
